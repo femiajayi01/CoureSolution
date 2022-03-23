@@ -1,0 +1,16 @@
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\bin\Debug\net5.0\CoureConsole.exe
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\bin\Debug\net5.0\CoureConsole.deps.json
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\bin\Debug\net5.0\CoureConsole.runtimeconfig.json
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\bin\Debug\net5.0\CoureConsole.runtimeconfig.dev.json
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\bin\Debug\net5.0\CoureConsole.dll
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\bin\Debug\net5.0\CoureConsole.pdb
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.csproj.AssemblyReference.cache
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.AssemblyInfoInputs.cache
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.AssemblyInfo.cs
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.csproj.CoreCompileInputs.cache
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.dll
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\refint\CoureConsole.dll
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.pdb
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\CoureConsole.genruntimeconfig.cache
+C:\Users\oajayi\source\repos\CoureSolution\CoureConsole\obj\Debug\net5.0\ref\CoureConsole.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoureAPI", "CoureAPI\CoureAPI.csproj", "{67FBFB1A-C49E-4A5B-B158-CBAAAE40EAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoureConsole", "CoureConsole\CoureConsole.csproj", "{C1F214F7-39AE-43B7-95DD-BBECDDE7C36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FBFB1A-C49E-4A5B-B158-CBAAAE40EAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FBFB1A-C49E-4A5B-B158-CBAAAE40EAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FBFB1A-C49E-4A5B-B158-CBAAAE40EAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FBFB1A-C49E-4A5B-B158-CBAAAE40EAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F214F7-39AE-43B7-95DD-BBECDDE7C36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F214F7-39AE-43B7-95DD-BBECDDE7C36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F214F7-39AE-43B7-95DD-BBECDDE7C36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F214F7-39AE-43B7-95DD-BBECDDE7C36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115A7C38-8D22-4CEC-AFB3-9E5896818CA9}
+	EndGlobalSection
+EndGlobal

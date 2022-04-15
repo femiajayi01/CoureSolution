@@ -7,5 +7,9 @@ namespace CoureAPI.Interfaces
     {
         
         IEnumerable<CountryDetail> GetCountryDetailByCountryCode(string countryCode);
+
+        Country GetCountry(string countryCode);
+
+        IEnumerable<CountryDetail> GetCountryDetailsById(int id);
     }
 }

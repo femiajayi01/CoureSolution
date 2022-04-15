@@ -25,7 +25,7 @@ C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\staticwebas
 C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\CoureAPI.RazorTargetAssemblyInfo.cache
 C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\CoureAPI.csproj.CopyComplete
 C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\CoureAPI.dll
-C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\refint\CoureAPI.dll
 C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\CoureAPI.pdb
 C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\CoureAPI.genruntimeconfig.cache
 C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\ref\CoureAPI.dll
+C:\Users\oajayi\source\repos\CoureSolution\CoureAPI\obj\Debug\net5.0\refint\CoureAPI.dll

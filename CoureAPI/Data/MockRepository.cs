@@ -15,6 +15,17 @@ namespace CoureAPI.Data
             _context = context;
         }
 
+        public Country GetCountry(string countryCode)
+        {
+            return _context.Countries.FirstOrDefault(x => x.CountryCode == countryCode);
+        }
+
+        public IEnumerable<CountryDetail> GetCountryDetailsById(int id)
+        {
+            return _context.CountryDetails.Where(x => x.Country.Id == id).ToList();
+
+        }
+
 
         public IEnumerable<CountryDetail> GetCountryDetailByCountryCode(string countryCode)
         {

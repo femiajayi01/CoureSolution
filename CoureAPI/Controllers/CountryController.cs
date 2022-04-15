@@ -19,7 +19,7 @@ namespace coure.Controllers
         }
 
 
-
+        // Eager Loading
 
         // GET: api/CountryDetails/phoneNumber
         [HttpGet]
@@ -48,6 +48,44 @@ namespace coure.Controllers
                     {
                        ["operator"] = x.Operator,
                        ["operatorCode"] = x.OperatorCode
+                    })
+                }
+            };
+            return Ok(result);
+
+        }
+
+        // Lazy loading
+
+        // GET: api/CountryDetails/phoneNumber
+        [HttpGet]
+        [Route("CountryDetailssss/{phoneNumber}")]
+        public IActionResult CountryDetailssss(string phoneNumber)
+        {
+            var countryCode = phoneNumber.Substring(0, 3);
+
+            var country = _repository.GetCountry(countryCode);
+
+
+            var countryDetails = _repository.GetCountryDetailsById(country.Id).ToList();
+
+            if (countryDetails.Count == 0)
+            {
+                return NotFound();
+            }
+
+            var result = new
+            {
+                number = phoneNumber,
+                country = new
+                {
+                    countryCode,
+                    name = country?.Name,
+                    countryIso = country?.CountryIso,
+                    countryDetails = countryDetails.Select(x => new Dictionary<string, string>()
+                    {
+                        ["operator"] = x.Operator,
+                        ["operatorCode"] = x.OperatorCode
                     })
                 }
             };
